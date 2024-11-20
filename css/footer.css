@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding-top: 120px;
+  padding-bottom: 32px;
+  background-color: #E2DDD1;
+}
+.footer .nav {
+  margin-bottom: 24px;
+}
+.footer .privacy-link {
+  display: block;
+  margin-bottom: 80px;
+}
+.footer__logo {
+  width: 166px;
+  margin-bottom: 120px;
+}
+.footer__copyright {
+  color: #6E551B;
+}
+/*# sourceMappingURL=footer.css.map */
